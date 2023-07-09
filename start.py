@@ -1,1 +1,1 @@
-print("Hello world")
+print("We are few but powerful")
